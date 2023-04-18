@@ -4,7 +4,7 @@ from Def import localizarPieza,imprimirTablero,validarPiezaBlanca,validarPiezaNe
 print("------------------------------")
 print("        LEGEND CHESS          ")
 print("------------------------------")
-
+print("Esto es un avance")
 
 x=0
 imprimirTablero()
